@@ -1,0 +1,7 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ZATTARI Signal-Z logo</title>
+  <desc id="desc">Angular Z monogram inside a glowing rounded square.</desc>
+  <rect x="12" y="12" width="136" height="136" rx="34" fill="#070707" stroke="#d7ff4f" stroke-width="4"/>
+  <path d="M48 46H116L63 114H119" stroke="#d7ff4f" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 118L118 42" stroke="#fff" stroke-opacity=".22" stroke-width="3"/>
+</svg>
