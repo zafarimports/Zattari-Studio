@@ -1,4 +1,4 @@
-# ZATTARI — Growth Systems Studio
+# ZEN ATARI — Growth Systems Studio
 
 Award-style animated landing page + full trial funnel for digital marketing, automation and lead-generation services.
 

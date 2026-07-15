@@ -1,4 +1,4 @@
-# ZATTARI — Trial Funnel Email Automation
+# ZEN ATARI — Trial Funnel Email Automation
 
 Six-email sequence that runs the 7-day free trial funnel end-to-end: capture → build updates → urgency → checkout → win-back.
 

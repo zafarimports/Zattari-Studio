@@ -1,0 +1,18 @@
+{
+  "name": "zen-atari",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zen Atari — Growth Systems Studio. Static marketing site (no build step).",
+  "homepage": "https://zenatari.studio/",
+  "scripts": {
+    "build": "echo \"Static site — no build step required\"",
+    "start": "npx --yes serve ."
+  },
+  "keywords": [
+    "marketing-agency",
+    "lead-generation",
+    "static-site",
+    "waterloo-region"
+  ],
+  "license": "UNLICENSED"
+}
